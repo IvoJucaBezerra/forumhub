@@ -1,5 +1,5 @@
 <div align="center">
- ![BADGE RECEBIDA](https://github.com/IvoJucaBezerra/forumhub/blob/main/Badge-Spring.png)
+ ![BADGE RECEBIDA](https://github.com/IvoJucaBezerra/forumhub/blob/main/img/Badge-Spring.png)
  </div>
 
 
