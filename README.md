@@ -1,6 +1,9 @@
 <div align="center">
- ![](https://github.com/IvoJucaBezerra/forumhub/blob/main/img/Badge-Spring.png)
+
+![Badge ForumHub](https://github.com/IvoJucaBezerra/forumhub/blob/main/img/Badge-Spring.png)
+
 </div>
+
 
 
 # Challenge ONE - T6 | Back End | Alura Forum Hub
