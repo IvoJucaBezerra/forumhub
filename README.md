@@ -5,7 +5,7 @@
 * MySql - https://www.mysql.com/downloads/
 * Java - https://www.oracle.com/br/java/technologies/downloads/
 * Spring Boot - https://start.spring.io/
-  - Usando Maven como gerenciador de dependências, Spring Security, Spring JPA, Jackson, Flyway
+  - Usando Maven como gerenciador de dependências, Spring Security, Spring JPA, Jackson, Flyway, Lombok
 * Token JWT - https://jwt.io/ - auth0 - https://github.com/auth0/java-jwt
 * Swagger - https://swagger.io/
 
