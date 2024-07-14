@@ -1,3 +1,8 @@
+<div align="center">
+ ![BADGE RECEBIDA](https://github.com/IvoJucaBezerra/forumhub/blob/main/Badge-Spring.png)
+ </div>
+
+
 # Challenge ONE - T6 | Back End | Alura Forum Hub
 
 ## Tecnologias utilizadas:
